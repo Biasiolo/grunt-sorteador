@@ -1,0 +1,47 @@
+body {
+  background-color: #eb3b5a;
+}
+h1 {
+  font-size: 32px;
+}
+main {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 2em;
+  text-align: center;
+}
+button {
+  padding: 12px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  margin-top: 1em;
+  border-radius: 8px;
+  background-color: aqua;
+  color: black;
+}
+input {
+  display: block;
+  margin: 16px auto 0;
+  font-size: 2em;
+  max-width: 120px;
+  border: none;
+  background-color: transparent;
+  text-align: center;
+  color: white;
+  border-bottom: 2px solid black;
+}
+.resultado {
+  padding: 16px;
+  text-align: center;
+  border: 2px dotted black;
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 120px;
+}
+.resultado span {
+  font-weight: bold;
+  font-size: 3rem;
+  display: block;
+}
